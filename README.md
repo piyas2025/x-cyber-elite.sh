@@ -10,7 +10,7 @@ pkg install python2 -y
 pkg install python3 -y
 pkg insall termux- api -y
 
-git clone https://github.com/piyas2025/x-cyber-elite.sh.git
+git clone https://github.com/X-cyber-2025/x-cyber-elite.sh.git
 
 cd x-cyber-elite
 
