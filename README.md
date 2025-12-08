@@ -9,6 +9,10 @@ pkg install python -y
 pkg install python2 -y
 pkg install python3 -y
 pkg insall termux- api -y
+pkg install ruby -y
+gem install lolcat
+pkg update -y
+pkg install figlet lolcat -y
 
 git clone https://github.com/X-cyber-2025/x-cyber-elite.sh.git
 
